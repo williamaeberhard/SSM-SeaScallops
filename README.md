@@ -1,7 +1,7 @@
-SSM-SeaScallops
----------------
+SSM-SeaScallops: R code for simulating and fitting the alternative state space model of Yin et al. (2018)
+---------------------------------------------------------------------------------------------------------
 
-These separate R scripts provide functions to simulate data according to the alternative state space model introduced in Yin et al. (2018) for the assessment of the Bay of Fundy sea scallops fishery (Scallop Production Area 4 SPA4 as labelled by Fisheries and Oceans Canada). These scripts also provide functions to fit the model according to a Laplace-approximated maximum likelihood estimation method, which relies on the R package Template Model Builder (TMB). Details about the model and can be found in Yin et al. (2018).
+These separate R scripts provide functions to simulate data according to the alternative state space model introduced in Yin et al. (2018) for the assessment of the Bay of Fundy sea scallops fishery (Scallop Production Area 4 SPA4 as labelled by Fisheries and Oceans Canada). These scripts also provide functions to fit the model according to a Laplace-approximated maximum likelihood estimation method which relies on the R package Template Model Builder (TMB). Details about the model and the comparison to the reference model can be found in Yin et al. (2018).
 
 Updates can be found at https://github.com/williamaeberhard/SSM-SeaScallops.
 
